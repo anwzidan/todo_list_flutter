@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:provider/provider.dart';
 import 'package:todo_list/widgets/home_page.dart';
-import 'package:todo_list/widgets/popup_window.dart';
 
 import 'Models.dart';
 
